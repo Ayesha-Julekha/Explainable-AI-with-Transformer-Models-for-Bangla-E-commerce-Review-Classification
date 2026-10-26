@@ -1,0 +1,2 @@
+# Explainable-AI-with-Transformer-Models-for-Bangla-E-commerce-Review-Classification
+Bangla product review classification using transformer models such as BanglaBERT, mBERT, BanglaT5, and DistilBERT, focusing on Bangla as a low-resource language. The project involves collecting raw Bangla product reviews and applying Explainable AI (XAI) techniques, including LIME and SHAP, to interpret model predictions.
